@@ -3,4 +3,5 @@
 members = [
   "loops",
   "structure",
+  "wasm",
 ]
